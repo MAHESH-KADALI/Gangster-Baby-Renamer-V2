@@ -43,7 +43,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-V2">
+<a href="https://heroku.com/deploy?template=https://github.com/MAHESH-KADALI/Gangster-Baby-Renamer-V2">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
